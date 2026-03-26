@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflare.com
+IP-CIDR,162.159.192.0/22,no-resolve
+IP-CIDR,162.159.195.0/24,no-resolve
+IP-CIDR,198.41.192.0/24,no-resolve
